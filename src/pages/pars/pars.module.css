@@ -1,0 +1,56 @@
+.glav {
+  display: flex;
+  width: 100%;
+  height: 700px;
+  background-color: gray;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.inpDiv {
+  margin-top: 10vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.inp {
+  display: flex;
+  width: 200px;
+  height: 20px;
+  align-items: center;
+}
+.inpBut {
+  display: flex;
+  margin-top: 3vh;
+  width: 130px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+}
+.comb {
+  width: 250px;
+  height: 50px;
+  background-color: white;
+  margin-top: 10px;
+}
+.text {
+    width: 70px;
+    height: 50px;
+    background-color: white;
+}
+.comb {
+    display: flex;
+  
+   
+}
+.els{
+    margin-left: 5px;
+}
+.push {
+  display: flex;
+  margin-top: 3vh;
+  width: 130px;
+  height: 30px;
+  align-items: center;
+  justify-content: center;
+}

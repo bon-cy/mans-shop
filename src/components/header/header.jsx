@@ -13,8 +13,8 @@ const Header = () => {
       
       <Link to="/ok" className={styles.glav}>корзина</Link>
       <Link to="/products" className={styles.glav}>товары</Link>
-      <Link to="/ok" className={styles.glav}>регистрация</Link>
-      <Link to="/ok" className={styles.glav}>о нас</Link>
+      <Link to="/vallet" className={styles.glav}>регистрация</Link>
+      <Link to="/pars" className={styles.glav}>о нас</Link>
     </div>
   );
 };
